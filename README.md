@@ -1,9 +1,12 @@
-# decisi
-一款基于 Java 语言和 Rete 算法，且支持独立部署的规则引擎决策系统
+# decisi (incubating)
+
+a standalone Rule-Decision system which is based on Java language and RETE algorithm
 
 ### 技术点
-- [ ] 实现 Rete 算法
-- [ ] 基于 Java 语言
-- [ ] 利用 Netty 作为通信底层
-- [ ] 规则存储到 DB 持久化
-- [ ] 提供可视化规则录入操作
+- [ ] Java language based support
+- [ ] RETE algorithm
+- [ ] Decision-Tree support
+- [ ] Score-Card support
+- [ ] Netty for correspond with client
+- [ ] persist to DB support
+- [ ] setup rules visually support
