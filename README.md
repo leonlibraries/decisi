@@ -1,6 +1,6 @@
 # decisi (incubating)
 
-a standalone Rule-Decision system which based on Java language and RETE algorithm
+a high-performance standalone Rule-Decision system which based on Java language and RETE algorithm
 
 ### target
 - [ ] Java language based support
