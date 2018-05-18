@@ -2,7 +2,7 @@
 
 a standalone Rule-Decision system which is based on Java language and RETE algorithm
 
-### 技术点
+### target
 - [ ] Java language based support
 - [ ] RETE algorithm
 - [ ] Decision-Tree support
