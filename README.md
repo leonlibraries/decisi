@@ -8,5 +8,5 @@ a standalone Rule-Decision system which based on Java language and RETE algorith
 - [ ] Decision-Tree support
 - [ ] Score-Card support
 - [ ] Netty for correspond with client
-- [ ] persist to DB support
-- [ ] setup rules visually support
+- [ ] DB persistence support
+- [ ] configure rules visually support
